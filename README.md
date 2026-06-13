@@ -119,7 +119,7 @@ Complaint registration and tracking platform built using modern web technologies
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rakshitad22&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rakshitad22&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
