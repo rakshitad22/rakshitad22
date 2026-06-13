@@ -13,7 +13,7 @@
   <a href="mailto:rakshitad76@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/_.rakshita.__bhat._">
+  <a href="https://instagram.com/_.rakshita.__.bhat._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -132,7 +132,7 @@ Digital Complaint Registration & Tracking
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=rakshitad22&theme=tokyonight&no-frame=true&row=1&column=7"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rakshitad22&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
