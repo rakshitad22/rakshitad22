@@ -116,21 +116,6 @@ Complaint registration and tracking platform built using modern web technologies
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rakshitad22&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rakshitad22/rakshitad22/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ## 💭 Quote I Follow
 
