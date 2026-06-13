@@ -15,10 +15,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/_.rakshita.__bhat._">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rakshitad22&style=for-the-badge&color=blueviolet"/>
