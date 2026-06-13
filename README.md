@@ -148,7 +148,6 @@ Complaint registration and tracking platform built using modern web technologies
 
 📧 Email: [rakshitad76@gmail.com](mailto:rakshitad76@gmail.com)
 
-📸 Instagram: @_.rakshita._.bhat._
 
 ---
 
