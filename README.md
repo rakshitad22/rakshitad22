@@ -3,19 +3,21 @@
 <h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast | Information Science Engineering Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Google+Cloud+Learner;Building+Technology+for+Real-World+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF61D8&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast+🤖;Full+Stack+Developer+💻;Machine+Learning+Explorer+📚;Google+Cloud+Learner+☁️;Building+Technology+for+Real+World+Impact+🚀" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rakshita-d-8b7539308">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rakshitad76@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_.rakshita.__.bhat._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="mailto:rakshitad76@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rakshita-d-8b7539308">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_.rakshita.__bhat._">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
@@ -28,100 +30,80 @@
 
 🎓 Information Science Engineering Student
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
 
-💻 Full Stack Developer building modern web applications
+💻 Full Stack Developer focused on building scalable web applications
 
-☁️ Exploring Google Cloud & Generative AI
+☁️ Exploring Google Cloud, Generative AI & Modern Cloud Technologies
 
-🚀 Open Source Contributor and Tech Enthusiast
+🚀 Open Source Enthusiast and Technology Explorer
 
 🌱 Currently learning Advanced AI, Cloud Computing & DSA
 
-⚡ Turning innovative ideas into impactful software solutions
+💡 Love solving real-world problems through intelligent software solutions
+
+⚡ Turning innovative ideas into impactful applications
+
+---
+
+## 🏆 Certifications & Achievements
+
+🏅 Google Cloud Generative AI Learning Path Badges
+
+🎖️ Infosys Springboard – Frontend Web Development
+
+🎖️ Oracle Academy – Database Management Systems (DBMS)
+
+🎖️ Celonis Academy – Process Mining Fundamentals
+
+🎖️ MongoDB University – MongoDB & NoSQL Databases
+
+🎖️ Saylor Academy – Machine Learning
+
+🎖️ IBM SkillsBuild – Artificial Intelligence & Data Analytics
+
+🎖️ IBM SkillsBuild – Cloud Computing
+
+🎖️ Infosys Springboard – Python Programming
+
+🎖️ Infosys Springboard – AI Fundamentals
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🤖 IntelliHire AI
 
-AI Resume Screening & Candidate Ranking System
-
-</td>
-<td width="50%">
+AI Resume Screening & Candidate Ranking System using Machine Learning and NLP.
 
 ### 🛡️ FraudLens
 
-AI-Based UPI & SMS Scam Detection System
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+AI-Based UPI & SMS Scam Detection System for identifying phishing and fraud attempts.
 
 ### 📊 Django CSV Management
 
-CSV Upload & Data Management Platform
+Web application for efficient CSV upload, processing and management using Django.
 
-</td>
-<td width="50%">
+### 📱 Smart Complaint Management System
 
-### 📱 Smart Complaint System
-
-Digital Complaint Registration & Tracking
-
-</td>
-</tr>
-</table>
+Complaint registration and tracking platform built using modern web technologies.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-### Frontend & Backend
-
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge\&logo=react)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge\&logo=express)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge\&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge\&logo=fastapi)
-
-### Databases & Cloud
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?style=for-the-badge\&logo=google-cloud)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge\&logo=amazonaws)
-
-### AI & ML
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,html,css,react,nodejs,express,django,fastapi,mongodb,mysql,postgres,firebase,supabase,git,github,docker,postman,gcp,aws,vscode,tensorflow,pytorch,opencv&perline=9" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rakshitad22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakshitad22&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitad22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitad22&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -130,26 +112,48 @@ Digital Complaint Registration & Tracking
 
 ---
 
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakshitad22&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitad22&theme=tokyo-night&hide_border=true"/>
-
----
-
-### 💭 Developer Quote
-
-> "The best way to predict the future is to create it."
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+## 📈 GitHub Activity Graph
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitad22&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rakshitad22&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rakshitad22/rakshitad22/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 💭 Quote I Follow
+
+> "The future belongs to those who learn more skills and combine them in creative ways."
+
+---
+
+## 🌟 Let's Connect
+
+💼 LinkedIn: [www.linkedin.com/in/rakshita-d-8b7539308](http://www.linkedin.com/in/rakshita-d-8b7539308)
+
+📧 Email: [rakshitad76@gmail.com](mailto:rakshitad76@gmail.com)
+
+📸 Instagram: @_.rakshita._.bhat._
+
+---
+
+<h3 align="center">✨ Thanks for Visiting My Profile ✨</h3>
+
+<p align="center">
+⭐ If you like my projects, don't forget to star them!
 </p>
